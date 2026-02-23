@@ -25,5 +25,5 @@ Imports:
 Suggests:
   testthat
 Remotes:
-  xoopR/dictionar6,
-  xoopR/set6
+  mlr-org/dictionar6,
+  mlr-org/set6
